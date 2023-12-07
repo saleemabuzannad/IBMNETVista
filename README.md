@@ -1,4 +1,5 @@
 #### IBMNETVista computer
+
 ![](https://qph.cf2.quoracdn.net/main-qimg-9faeb2115a5a61f1b43d6b349de4b349) 
 
 **status**
@@ -25,3 +26,12 @@
 **Graphics:** *Chromebooks typically use integrated graphics sufficient for web browsing and basic tasks. Some premium models may have more powerful integrated graphics.*
 https://www.google.com/chromebook/ 
 ~~Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam~~
+1. quae ab illo
+2. inventore veritatis
+3. LIST
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| i      | am | saleem |
+| dolorem      | nesciunt      |   neoscloso |
+| zebra stripes | are neat      |   jameica |
