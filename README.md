@@ -23,3 +23,4 @@
 **Display:** *Chromebooks come in various screen sizes, commonly 11.6-inch, 13.3-inch, 14-inch, or 15.6-inch. The resolution varies, ranging from HD (1366 x 768 pixels) to Full HD (1920 x 1080 pixels) or even higher.*
 
 **Graphics:** *Chromebooks typically use integrated graphics sufficient for web browsing and basic tasks. Some premium models may have more powerful integrated graphics.*
+https://www.google.com/chromebook/ 
