@@ -24,3 +24,4 @@
 
 **Graphics:** *Chromebooks typically use integrated graphics sufficient for web browsing and basic tasks. Some premium models may have more powerful integrated graphics.*
 https://www.google.com/chromebook/ 
+~~Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam~~
